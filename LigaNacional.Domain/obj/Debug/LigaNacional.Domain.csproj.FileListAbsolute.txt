@@ -1,0 +1,8 @@
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\MoviText.Domain\bin\Debug\LigaNacional.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\MoviText.Domain\bin\Debug\LigaNacional.Domain.pdb
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\MoviText.Domain\obj\Debug\LigaNacional.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\MoviText.Domain\obj\Debug\LigaNacional.Domain.pdb
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\LigaNacional.Domain\bin\Debug\LigaNacional.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\LigaNacional.Domain\bin\Debug\LigaNacional.Domain.pdb
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\LigaNacional.Domain\obj\Debug\LigaNacional.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\Clase\LigaNacional\WebApi\LigaNacional.Domain\obj\Debug\LigaNacional.Domain.pdb

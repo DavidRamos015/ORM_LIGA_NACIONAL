@@ -1,0 +1,4 @@
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\OpenSource\Template-WebApi\WebApi\MoviText.Domain\bin\Debug\MoviText.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\OpenSource\Template-WebApi\WebApi\MoviText.Domain\bin\Debug\MoviText.Domain.pdb
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\OpenSource\Template-WebApi\WebApi\MoviText.Domain\obj\Debug\MoviText.Domain.dll
+E:\Cloud Computing\dropbox\Dropbox\Proyectos Clase\OpenSource\Template-WebApi\WebApi\MoviText.Domain\obj\Debug\MoviText.Domain.pdb

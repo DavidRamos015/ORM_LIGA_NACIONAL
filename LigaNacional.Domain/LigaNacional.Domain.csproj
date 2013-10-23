@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE439EDB-274F-40E6-A71F-91F33A8A2B03}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LigaNacional.Domain</RootNamespace>
+    <AssemblyName>LigaNacional.Domain</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Alineacion.cs" />
+    <Compile Include="Entities\Arbitro.cs" />
+    <Compile Include="Entities\Arbitro_Partido.cs" />
+    <Compile Include="Entities\Calendario.cs" />
+    <Compile Include="Entities\Distrito.cs" />
+    <Compile Include="Entities\Entrenador_Equipo.cs" />
+    <Compile Include="Entities\Estadio.cs" />
+    <Compile Include="Entities\Estadistica.cs" />
+    <Compile Include="Entities\Jornada.cs" />
+    <Compile Include="Entities\Jugador_Equipo.cs" />
+    <Compile Include="Entities\Nacionalidad.cs" />
+    <Compile Include="Entities\Partido.cs" />
+    <Compile Include="Entities\PosicionArbitro.cs" />
+    <Compile Include="Entities\PosicionJugador.cs" />
+    <Compile Include="Entities\Sede.cs" />
+    <Compile Include="Entities\TablaGoleador.cs" />
+    <Compile Include="Entities\TablaPosicion.cs" />
+    <Compile Include="Entities\TipoEstadistica.cs" />
+    <Compile Include="Entities\Entrenador.cs" />
+    <Compile Include="Entities\Equipo.cs" />
+    <Compile Include="IBaseModel.cs" />
+    <Compile Include="IEntity.cs" />
+    <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="IEntityMaintenance.cs" />
+    <Compile Include="IRepository.cs" />
+    <Compile Include="IResponseMessage.cs" />
+    <Compile Include="IToken.cs" />
+    <Compile Include="Entities\Jugador.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
