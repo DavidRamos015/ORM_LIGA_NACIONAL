@@ -1,6 +1,4 @@
- O R M
-
-LIGA NACIONAL
+ORM - LIGA NACIONAL
 ==================
 
 Ejemplo de un ORM usando 
